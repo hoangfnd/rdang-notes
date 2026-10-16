@@ -1,53 +1,37 @@
 ---
 title: "About"
-description: "About Ryan Dang and the purpose of this blog."
+description: "A bit about me and this blog."
 ---
 
-# Welcome
+AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
-Hi, I'm **Ryan Dang**.
+![Astro Paper](@/assets/images/astropaper-og.jpg)
 
-This website serves as my personal knowledge base, digital notebook, and learning journal.
+AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
 
-As an IT professional, I spend much of my time working with infrastructure, system operations, virtualization, troubleshooting, cloud technologies, automation, and performance optimization. Throughout that journey, I constantly encounter new challenges, ideas, and lessons worth documenting.
+The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
 
-## What is this blog about?
+## Features
 
-This blog covers topics that I am currently learning, researching, using, or simply interested in.
+AstroPaper comes with a set of useful features that make content publishing easy and effective:
 
-You'll find content related to:
+- SEO-friendly
+- Fast performance
+- Light & dark mode
+- Highly customizable
+- Organizable blog posts
+- Responsive & accessible
+- Static search with [PageFind](https://pagefind.app/)
+- Automatic social image generation
 
-- IT Operations & Infrastructure
-- Virtualization and Homelab
-- System Administration
-- Performance Analysis & Troubleshooting
-- Cloud Technologies & Automation
-- Personal Finance & Investing
-- Technology Reviews & Comparisons
-- Productivity and Continuous Learning
+and so much more.
 
-Some articles are detailed technical guides, while others are personal notes and observations collected from real-world experiences.
+## Show your support
 
-## Why did I create this site?
+If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
 
-One of the biggest challenges in both technology and life is that valuable knowledge is easy to forget.
+Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
 
-I created this blog to:
+If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
 
-- Document what I learn
-- Build a personal knowledge repository
-- Preserve solutions to problems I've already solved
-- Track my progress over time
-- Share useful information with others
-
-Many articles are written primarily for my future self, but if they help someone else solve a problem or learn something new, that's a welcome bonus.
-
-## A Personal Note
-
-Technology evolves quickly. Investment strategies change. Best practices improve over time.
-
-The content published here reflects my current understanding, experiences, and opinions at the time of writing. Readers are encouraged to conduct their own research and verification whenever appropriate.
-
-Thank you for visiting and being part of this journey.
-
-**Ryan Dang**
+Kyay zuu! 🙏🏼
