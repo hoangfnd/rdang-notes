@@ -1,37 +1,40 @@
----
-title: "About"
-description: "A bit about me and this blog."
----
+# About
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Welcome to Ryan Dang Notes.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+This is my personal knowledge base and digital notebook, where I document what I learn, build, troubleshoot, and discover throughout my journey as an IT Engineer and technology enthusiast.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Who am I?
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+I'm Ryan Dang, an IT professional with a strong interest in infrastructure, system operations, cloud technologies, virtualization, automation, and software architecture.
 
-## Features
+Outside of work, I'm also passionate about personal finance, investing, consumer technology, and continuous learning. I believe that knowledge becomes far more valuable when it is documented, shared, and revisited over time.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## What you'll find here
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+This site contains notes, tutorials, troubleshooting guides, and personal observations on topics such as:
 
-and so much more.
+- IT Operations & Infrastructure
+- System Administration
+- Virtualization and Homelab
+- Cloud & Automation
+- Performance Analysis and Troubleshooting
+- Personal Finance & Investing
+- Technology Reviews and Comparisons
+- Productivity and Continuous Learning
 
-## Show your support
+Some articles are detailed technical guides, while others are simply lessons learned from real-world experiences.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## Why this site exists
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+One of the biggest challenges in technology is that valuable knowledge is often forgotten after solving a problem. This website serves as my personal knowledge repository, helping me preserve solutions, insights, and experiences that I can reference in the future.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+At the same time, I hope these notes can be useful to others who encounter similar challenges or share similar interests.
 
-Kyay zuu! 🙏🏼
+## A Note to Readers
+
+Everything published here reflects my personal experiences, opinions, and understanding at the time of writing. Technology, markets, and best practices evolve constantly, so I encourage readers to perform their own research and validation when appropriate.
+
+Thank you for visiting, and I hope you find something useful along the way.
+
+— Ryan Dang
