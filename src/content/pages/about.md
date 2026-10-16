@@ -1,40 +1,53 @@
-# About
+---
+title: "About"
+description: "About Ryan Dang and the purpose of this blog."
+---
 
-Welcome to Ryan Dang Notes.
+# Welcome
 
-This is my personal knowledge base and digital notebook, where I document what I learn, build, troubleshoot, and discover throughout my journey as an IT Engineer and technology enthusiast.
+Hi, I'm **Ryan Dang**.
 
-## Who am I?
+This website serves as my personal knowledge base, digital notebook, and learning journal.
 
-I'm Ryan Dang, an IT professional with a strong interest in infrastructure, system operations, cloud technologies, virtualization, automation, and software architecture.
+As an IT professional, I spend much of my time working with infrastructure, system operations, virtualization, troubleshooting, cloud technologies, automation, and performance optimization. Throughout that journey, I constantly encounter new challenges, ideas, and lessons worth documenting.
 
-Outside of work, I'm also passionate about personal finance, investing, consumer technology, and continuous learning. I believe that knowledge becomes far more valuable when it is documented, shared, and revisited over time.
+## What is this blog about?
 
-## What you'll find here
+This blog covers topics that I am currently learning, researching, using, or simply interested in.
 
-This site contains notes, tutorials, troubleshooting guides, and personal observations on topics such as:
+You'll find content related to:
 
 - IT Operations & Infrastructure
-- System Administration
 - Virtualization and Homelab
-- Cloud & Automation
-- Performance Analysis and Troubleshooting
+- System Administration
+- Performance Analysis & Troubleshooting
+- Cloud Technologies & Automation
 - Personal Finance & Investing
-- Technology Reviews and Comparisons
+- Technology Reviews & Comparisons
 - Productivity and Continuous Learning
 
-Some articles are detailed technical guides, while others are simply lessons learned from real-world experiences.
+Some articles are detailed technical guides, while others are personal notes and observations collected from real-world experiences.
 
-## Why this site exists
+## Why did I create this site?
 
-One of the biggest challenges in technology is that valuable knowledge is often forgotten after solving a problem. This website serves as my personal knowledge repository, helping me preserve solutions, insights, and experiences that I can reference in the future.
+One of the biggest challenges in both technology and life is that valuable knowledge is easy to forget.
 
-At the same time, I hope these notes can be useful to others who encounter similar challenges or share similar interests.
+I created this blog to:
 
-## A Note to Readers
+- Document what I learn
+- Build a personal knowledge repository
+- Preserve solutions to problems I've already solved
+- Track my progress over time
+- Share useful information with others
 
-Everything published here reflects my personal experiences, opinions, and understanding at the time of writing. Technology, markets, and best practices evolve constantly, so I encourage readers to perform their own research and validation when appropriate.
+Many articles are written primarily for my future self, but if they help someone else solve a problem or learn something new, that's a welcome bonus.
 
-Thank you for visiting, and I hope you find something useful along the way.
+## A Personal Note
 
-— Ryan Dang
+Technology evolves quickly. Investment strategies change. Best practices improve over time.
+
+The content published here reflects my current understanding, experiences, and opinions at the time of writing. Readers are encouraged to conduct their own research and verification whenever appropriate.
+
+Thank you for visiting and being part of this journey.
+
+**Ryan Dang**
