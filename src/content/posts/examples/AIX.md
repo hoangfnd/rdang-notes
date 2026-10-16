@@ -1,7 +1,7 @@
 ---
 title: "AIX Operations Handbook"
 description: "Daily operation, troubleshooting and administration notes for IBM AIX."
-pubDate: 2026-10-16
+pubDatetime: 2026-10-16T16:55:12.000+00:00
 tags:
   - aix
   - unix
